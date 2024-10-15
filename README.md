@@ -16,4 +16,8 @@ Este projeto tem como objetivo criar uma história em quadrinhos de aventura, fo
 - Introdução: Apresentação dos personagens e do problema.
 - Desenvolvimento: Descrição dos desafios enfrentados pelos idosos.
 - Conclusão: Soluções e final positivo mostrando a inclusão tecnológica.
+## Links para Planejamento SCRUM
 
+- [Product Backlog - GitHub Issues]([link_do_product_backlog](https://github.com/RubyFragoso/Conectando-Vidas/issues))
+- [Sprint Backlog - Sprint 1]([link_do_sprint](https://github.com/RubyFragoso/Conectando-Vidas/milestones))
+- [Kanban Board - GitHub Projects]([link_do_kanban](https://github.com/users/RubyFragoso/projects/2))
